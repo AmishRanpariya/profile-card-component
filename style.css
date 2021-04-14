@@ -37,6 +37,7 @@ body {
 .card {
   background: white;
   width: 80%;
+  max-width:350px;
   border-radius: var(--Font-size);
   text-align: center;
   overflow: hidden;
